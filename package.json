@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/weldtable",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weld numeric table values, ranges, and human-readable units.",
+  "bin": {
+    "weldtable": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/weldtable.git"
+  },
+  "homepage": "https://theworker02.github.io/weldtable/",
+  "keywords": [
+    "weld",
+    "table",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
